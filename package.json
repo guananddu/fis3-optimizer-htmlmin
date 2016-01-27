@@ -1,0 +1,27 @@
+{
+  "name": "fis3-optimizer-htmlmin",
+  "version": "1.0.2",
+  "description": "fis3 plugin for htmlmin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guananddu/fis3-optimizer-htmlmin.git"
+  },
+  "keywords": [
+    "fis3",
+    "htmlmin"
+  ],
+  "author": "pooky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guananddu/fis3-optimizer-htmlmin/issues"
+  },
+  "homepage": "https://github.com/guananddu/fis3-optimizer-htmlmin#readme",
+  "dependencies": {
+    "htmlmin": "0.0.4",
+    "underscore": "^1.8.3"
+  }
+}
